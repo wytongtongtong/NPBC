@@ -4,6 +4,7 @@ Source code of our paper: A Neural Probabilistic Bounded Confidence Model for Op
 
 
 ## Requirements
+* environment Linux
 * Python 3.9
 * numpy==1.19.5
 * opencv_python==4.5.2.52
